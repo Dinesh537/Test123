@@ -60,7 +60,7 @@ public class SheJobs_testcase2 {
 		
 		
 		
-		System.out.print("Hi ALl");
+		System.out.print("Hi All");
 		Utils.closeExtentReport();
 	}
 	
