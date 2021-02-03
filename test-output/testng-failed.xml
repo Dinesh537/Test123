@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Regression100]" parallel="tests">
+  <test thread-count="1" name="SheJobs_testcase2(failed)" parallel="tests">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="Testcases.SheJobs_testcase2">
+        <methods>
+          <include name="sheJobsHomePage" invocation-numbers="0 1"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Testcases.SheJobs_testcase2 -->
+    </classes>
+  </test> <!-- SheJobs_testcase2(failed) -->
+</suite> <!-- Failed suite [Regression100] -->

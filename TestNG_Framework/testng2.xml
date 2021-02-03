@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+ <test name="TestNG_SheJobs">
+ <parameter name="JobTitle" value="Java Developer"/>
+  <parameter name="Location" value="Frisco"/>
+ <classes>
+ <class name="TestNG_Framework.Sample2" />
+ </classes>
+ </test>
+ 
+</suite>

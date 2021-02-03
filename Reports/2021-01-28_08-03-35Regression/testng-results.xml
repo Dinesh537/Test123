@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launched chrome and Navigated to : -------------------------https://www.she-jobs.com/]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[SCREENSHOT :: <a href='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.sheJobs_logo_20210128_200624.png'> <img_src='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.sheJobs_logo_20210128_200624.png' height='100', width='100' />sheJobsHomePage.sheJobs_logo</a>]]>
+    </line>
+    <line>
+      <![CDATA[sheJobsHomePage.sheJobs_logo-----------------------is present in the page]]>
+    </line>
+    <line>
+      <![CDATA[SCREENSHOT :: <a href='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.jobLocation_20210128_200643.png'> <img_src='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.jobLocation_20210128_200643.png' height='100', width='100' />sheJobsHomePage.jobLocation</a>]]>
+    </line>
+    <line>
+      <![CDATA[sheJobsHomePage.jobLocation-----------------------is present in the page]]>
+    </line>
+    <line>
+      <![CDATA[SCREENSHOT :: <a href='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.jobsLink_20210128_200701.png'> <img_src='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.jobsLink_20210128_200701.png' height='100', width='100' />sheJobsHomePage.jobsLink</a>]]>
+    </line>
+    <line>
+      <![CDATA[sheJobsHomePage.jobsLink-----------------------is present in the page]]>
+    </line>
+    <line>
+      <![CDATA[Expected Value and Actual value both are matching]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression" duration-ms="144214" started-at="2021-01-29T02:04:45Z" finished-at="2021-01-29T02:07:09Z">
+    <groups>
+    </groups>
+    <test name="SheJobs_testcase100" duration-ms="144214" started-at="2021-01-29T02:04:45Z" finished-at="2021-01-29T02:07:09Z">
+      <class name="Testcases.SheJobs_testcase1">
+        <test-method status="PASS" signature="sheJobsHomePage(java.lang.String, org.testng.ITestContext)[pri:0, instance:Testcases.SheJobs_testcase1@636be97c]" name="sheJobsHomePage" duration-ms="144092" started-at="2021-01-29T02:04:45Z" finished-at="2021-01-29T02:07:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@72f4669a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launched chrome and Navigated to : -------------------------https://www.she-jobs.com/]]>
+            </line>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[SCREENSHOT :: <a href='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.sheJobs_logo_20210128_200624.png'> <img_src='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.sheJobs_logo_20210128_200624.png' height='100', width='100' />sheJobsHomePage.sheJobs_logo</a>]]>
+            </line>
+            <line>
+              <![CDATA[sheJobsHomePage.sheJobs_logo-----------------------is present in the page]]>
+            </line>
+            <line>
+              <![CDATA[SCREENSHOT :: <a href='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.jobLocation_20210128_200643.png'> <img_src='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.jobLocation_20210128_200643.png' height='100', width='100' />sheJobsHomePage.jobLocation</a>]]>
+            </line>
+            <line>
+              <![CDATA[sheJobsHomePage.jobLocation-----------------------is present in the page]]>
+            </line>
+            <line>
+              <![CDATA[SCREENSHOT :: <a href='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.jobsLink_20210128_200701.png'> <img_src='C:\drive\Java_Training\Selenium_Training\screenshots\sheJobsHomePage.jobsLink_20210128_200701.png' height='100', width='100' />sheJobsHomePage.jobsLink</a>]]>
+            </line>
+            <line>
+              <![CDATA[sheJobsHomePage.jobsLink-----------------------is present in the page]]>
+            </line>
+            <line>
+              <![CDATA[Expected Value and Actual value both are matching]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sheJobsHomePage -->
+      </class> <!-- Testcases.SheJobs_testcase1 -->
+    </test> <!-- SheJobs_testcase100 -->
+  </suite> <!-- Regression -->
+</testng-results>
