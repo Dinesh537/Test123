@@ -53,7 +53,6 @@ public class SheJobs_testcase2 {
 		
 		utils.type(sheJobsHomePage.jobTitle, val);
 		utils.verifyElementPresent (driver,sheJobsHomePage.sheJobs_logo, "sheJobsHomePage.sheJobs_logo");
-		//utils.click(sheJobsHomePage.jobsLink, "sheJobsHomePage.jobsLink");
 		
 		utils.verifyElementPresent(driver, sheJobsHomePage.jobLocation, "sheJobsHomePage.jobLocation");
 		
@@ -61,7 +60,7 @@ public class SheJobs_testcase2 {
 		
 		
 		
-		
+		System.out.print("Hi All");
 		Utils.closeExtentReport();
 	}
 	
